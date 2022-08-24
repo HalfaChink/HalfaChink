@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=halfachink" alt="halfachink" /></a> </p>
 
-- :seedling: I’m currently learning **ReactJS**
+- :seedling: Im currently learning **ReactJS and Bootstrap**
 
-- :man_technologist: All of my projects are available at [recky-aditia-firdaus.netlify.app](recky-aditia-firdaus.netlify.app)
+- :man_technologist: My Portfolio are available at [recky-aditia-firdaus.netlify.app](recky-aditia-firdaus.netlify.app)
 
 - :mailbox: How to reach me **reckyaditiafirdaus@gmail.com**
 
