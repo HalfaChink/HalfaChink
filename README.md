@@ -1,9 +1,8 @@
 [![MasterHead](https://camo.githubusercontent.com/48ec00ed4c84e771db4a1db90b56352923a8d644452a32b434d68e97006c9337/68747470733a2f2f63686b736b696c6c732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30342f504e432d416e696d617465642d42616e6e6572732e676966)](https://HalfaChink.io)
 <h1 align="center">Hi, Im Recky Aditia Firdaus</h1>
 <h3 align="center">A Frontend Developer From SMK Yadika Soreang</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/2c/2d/6f/2c2d6f89218cdb5c6a345d603484755f.gif">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"></a></p>
 
 - :seedling: Im currently learning **ReactJS and Bootstrap**
 
