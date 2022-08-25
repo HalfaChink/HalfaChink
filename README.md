@@ -6,7 +6,7 @@
 
 - :seedling: Im currently learning **ReactJS and Bootstrap**
 
-- :man_technologist: My Portfolio Personal Branding are available at [**recky-aditia-firdaus.netlify.app**](recky-aditia-firdaus.netlify.app)
+- :man_technologist: My Portfolio Personal Branding are available at [**recky-aditia-firdaus.netlify.app**](https://recky-aditia-firdaus.netlify.app/)
 
 - :mailbox: How to reach me **reckyaditiafirdaus@gmail.com**
 
