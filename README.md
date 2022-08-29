@@ -4,6 +4,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"></a></p>
 
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=HalfaChink">
+
 - :seedling: Im currently learning **ReactJS and Bootstrap**
 
 - :man_technologist: My Portfolio Personal Branding are available at [**recky-aditia-firdaus.netlify.app**](https://recky-aditia-firdaus.netlify.app/)
