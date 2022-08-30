@@ -2,9 +2,8 @@
 <h1 align="center">Hi, Im Recky Aditia Firdaus</h1>
 <h3 align="center">A Frontend Developer From Yadika Soreang Vocational High School</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"></a></p>
-
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=HalfaChink">
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"></a></p>
 
 - :seedling: Im currently learning **ReactJS and Bootstrap**
 
