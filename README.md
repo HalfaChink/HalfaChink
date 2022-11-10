@@ -5,7 +5,7 @@
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=HalfaChink">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"></a></p>
 
-- :seedling: Im currently learning **ReactJS and Bootstrap**
+- :seedling: Im currently learning **ReactJS and NodeJS**
 
 - :man_technologist: My Portfolio Personal Branding and My Project are available at [**recky-aditia-firdaus.netlify.app**](https://recky-aditia-firdaus.netlify.app/) and [**replit.com/theflaming77**](https://replit.com/@theflaming77)
 
