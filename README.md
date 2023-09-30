@@ -7,7 +7,7 @@
 
 - :seedling: Im currently learning **ReactJS and NodeJS**
 
-- :man_technologist: My Portfolio Personal Branding and My Project are available at [**recky.netlify.app**](https://recky.netlify.app/) and [**replit.com/theflaming77**](https://replit.com/@theflaming77)
+- :man_technologist: My Portfolio Personal Branding and My Project are available at [**halfa.netlify.app**](https://halfa.netlify.app/) and [**replit.com/theflaming77**](https://replit.com/@theflaming77)
 
 - :mailbox: How to reach me **reckyaditiafirdaus@gmail.com**
 
