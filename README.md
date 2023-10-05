@@ -25,5 +25,5 @@
 </p>
 
 <p align="center">
-<img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs?username=halfachink&show_icons=true&theme=gotham&layout=compact" alt="halfachink" />&nbsp;<img height="150px" src="https://github-readme-stats.vercel.app/api?username=halfachink&show_icons=true&theme=gotham" alt="halfachink" />
+<img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs?username=halfachink&show_icons=true&theme=gotham&layout=compact" alt="halfachink" />&nbsp;<img height="180px" src="https://github-readme-stats.vercel.app/api?username=halfachink&show_icons=true&theme=gotham" alt="halfachink" />
 </p>
