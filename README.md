@@ -28,7 +28,8 @@ Hi, I'm Halfa, your friendly neighborhood front-end/back-end developer. Fluent i
 <img height="20" src="https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=python&logoColor=default"/>
 <hr>
 
-<img align="center" width="525px" src="https://cdn.discordapp.com/attachments/1281684094043951118/1296353336496226377/image_156.png?ex=6711faa0&is=6710a920&hm=22cdfd5f516f4ad2e5ffb79fd7bc03dcb604706149e29a02825291356b040fef&">&nbsp;
+<img align="center" width="525px" src="https://cdn.discordapp.com/attachments/1281684094043951118/1296353336496226377/image_156.png?ex=6711faa0&is=6710a920&hm=22cdfd5f516f4ad2e5ffb79fd7bc03dcb604706149e29a02825291356b040fef&">
+
 |        Halfa Discord Profile        |
 |:--------------------------------:|
 |    <img width="495px" src="https://lanyard.cnrad.dev/api/176355918362050560?theme=dark&idleMessage=Life%20is%20a%20Game%20so%20Be%20a%20Pro&bg=7b6461&showDisplayName=true" />    |
