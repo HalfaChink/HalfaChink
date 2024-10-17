@@ -38,7 +38,7 @@ Hi, I'm Halfa, your friendly neighborhood front-end/back-end developer. Fluent i
 <details align="center">
   <summary>Github Stats</summary>
 <p align="center">
-<img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs?username=halfachink&show_icons=true&theme=shadow_red&layout=compact" alt="halfachink" />&nbsp;<img height="180px" src="https://github-readme-stats.vercel.app/api?username=halfachink&show_icons=true&theme=shadow_red" alt="halfachink" />
+<img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs?username=halfachink&show_icons=true&theme=shadow_red&layout=compact" alt="halfachink" />&nbsp;<img height="180px" src="https://github-readme-stats.vercel.app/api?username=halfachink&show_icons=true&theme=shadow_red" alt="halfachink" />&nbsp;<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=HalfaChink&theme=youtube-dark&card_height=180" alt="GitHub Streak" /></a>
 </p>
 </details>
 </div>
