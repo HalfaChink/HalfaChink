@@ -32,7 +32,7 @@ Hi, I'm Halfa, your friendly neighborhood front-end/back-end developer. Fluent i
 
 |        Halfa Discord Profile        |
 |:--------------------------------:|
-|    <img width="495px" src="https://lanyard.cnrad.dev/api/176355918362050560?theme=dark&idleMessage=Life%20is%20a%20Game%20so%20Be%20a%20Pro&bg=7b6461&showDisplayName=true" />    |
+|    <img width="497px" src="https://lanyard.cnrad.dev/api/176355918362050560?theme=dark&idleMessage=Life%20is%20a%20Game%20so%20Be%20a%20Pro&bg=7b6461&showDisplayName=true" />    |
 
 <br/>
 <details align="center">
